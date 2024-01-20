@@ -1,4 +1,4 @@
 How to use:
 Run Main.py and enjoy
 
-This project is just the game of chess. 
+This project is the game of chess. 
